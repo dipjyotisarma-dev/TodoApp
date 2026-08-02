@@ -19,7 +19,7 @@ app.mount(
 )
 
 @app.get("/")
-def test(request: Request):
+def home():
     return RedirectResponse(url="/todos/todo-page", status_code=status.HTTP_302_FOUND)
 
 
