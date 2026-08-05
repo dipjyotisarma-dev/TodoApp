@@ -13,7 +13,7 @@ A simple Todo application built with **FastAPI** featuring user authentication a
 ## Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/TodoApp.git
+git clone https://github.com/dipjyotisarma-dev/TodoApp.git
 cd TodoApp
 pip install -r requirements.txt
 ```
